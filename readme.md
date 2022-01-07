@@ -1,7 +1,7 @@
 
 # About
 
-Repositorio source de la web https://iibmers.org/ (el dominio expira el DD/MM/AAAA, recordar renovarlo)
+Source repository of the website  https://biocurious-diy-bio-printing.github.io/  
 Utiliza el tema de Hugo [airspace-hugo](https://github.com/themefisher/airspace-hugo)
 
 # Como contribuir a la web
